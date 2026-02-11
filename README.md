@@ -1,2 +1,1 @@
-### Belajar C
-### maluu soalnya udah gede masih vibe coding
+belajar c sampe bisa
