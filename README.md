@@ -1,1 +1,3 @@
-belajar c sampe bisa
+### Belajar C
+Alasan saya belajar c, gabut
+
